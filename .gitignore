@@ -1,0 +1,12 @@
+# local settings and database files
+.env
+*.db
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# generated report document (regenerate with pandoc)
+*.docx
