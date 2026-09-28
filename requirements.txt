@@ -1,0 +1,3 @@
+# Only needed when the program is used with MySQL.
+# With --db sqlite the program runs on the standard library alone.
+mysql-connector-python==9.0.0
